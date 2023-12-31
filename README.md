@@ -3,6 +3,7 @@ Create NPCs and add OX_Target event.
 Check and collect items before events begin. The event is configurable.
 May be useful for scripts that do not have NPC startup.
 Three sample NPCs!
+I used the lockpick event as an example in the video.
 
 # Preview
 https://www.youtube.com/watch?v=ZnwXZio1IsY
