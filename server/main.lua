@@ -49,7 +49,7 @@ RegisterServerCallback('azakit_startnpc:itemTaken3',function(source, cb)
     local xPlayer = ESX.GetPlayerFromId(source)
     local item = xPlayer.getInventoryItem(ITEM3)
     --local item2 = xPlayer.getInventoryItem(ITEM2)
-    if REMOVE_ITEM then
+    if REMOVE_ITEM3 then
         if item.count >= ITEM_AMOUNT3 then
         xPlayer.removeInventoryItem(ITEM3, ITEM_AMOUNT3)
         -- xPlayer.removeInventoryItem(ITEM2, ITEM_AMOUNT2)  -- item, amount
