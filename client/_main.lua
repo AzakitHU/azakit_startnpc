@@ -108,7 +108,7 @@ RegisterNetEvent('azakit_startnpc:Check3', function()
         type = 'info'
       })
     
-    if ITEM2 then
+    if ITEM3 then
         hasItem = false
         
         TriggerServerCallback('azakit_startnpc:itemTaken3', function(cb)
