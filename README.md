@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=ZnwXZio1IsY
 - ox_lib
 - ox_target
 
-# UPDATE 1.0
+# UPDATE
 Added discord webhook
 (You will receive a discord message about the start of events.)
 
