@@ -1,5 +1,7 @@
 LANGUAGE = 'en'
 
+Webhook = "https://discord.com/api/webhooks/1192513762561904670/z2zRXu28XCZWpxNd0qmIqBBAhEZ6OQv-tnnqfL_SPIQPWwNvqnoJ9UwZ-CfLGOmcf_zO"
+
 --NPC 1
 ITEM = "water"  -- required item to start
 ITEM_AMOUNT = 1  -- amount of item required / no item check ITEM_AMOUNT = 0 
