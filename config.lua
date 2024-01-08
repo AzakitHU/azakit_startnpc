@@ -1,6 +1,6 @@
 LANGUAGE = 'en'
 
-Webhook = "https://discord.com/api/webhooks/1192513762561904670/z2zRXu28XCZWpxNd0qmIqBBAhEZ6OQv-tnnqfL_SPIQPWwNvqnoJ9UwZ-CfLGOmcf_zO"
+Webhook = "https://discord.com/api/webhooks/1193944718019670168/Dp8XKt9UPm61XYBBMkjgIj3x3v5xA4cNq55sAFIYY3ojWa5lh-gnTckMi8sBTYdPVKah"
 
 --NPC 1
 ITEM = "water"  -- required item to start
